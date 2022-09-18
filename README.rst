@@ -10,7 +10,7 @@
 
 ----
 
-Privacy-respecting, hackable `metasearch engine`_
+Privacy-respecting,,, hackable `metasearch engine`_
 
 If you are looking for running instances, ready to use, then visit searx.space_.
 Otherwise jump to the user_, admin_ and developer_ handbooks you will find on
